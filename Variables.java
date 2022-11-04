@@ -8,6 +8,11 @@ public class Variables {
         int a = 20;
         int b = 15;
 
+        int x = 49;
+        int y = 51;
+        int sum = x + y;
+        System.out.println(sum);
+
         /*
          * a, b, name, age, cgpa are the variables,
          * we can change the values without any errors.
