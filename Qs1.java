@@ -7,7 +7,7 @@ public class Qs1 {
         int a = sc.nextInt();
         int b = sc.nextInt();
         int sum = a + b;
-        System.out.println(sum);
+        System.out.println("Sum is : " + sum);
 
     }
 }
