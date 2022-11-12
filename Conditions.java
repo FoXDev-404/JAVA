@@ -11,6 +11,5 @@ public class Conditions {
                 System.out.println("You are't adult.\nYou can't vote.");
             }
         }
-
     }
 }
